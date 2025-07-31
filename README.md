@@ -1,2 +1,2 @@
 # red-social-universitaria-v2
-RSU: Red social universitaria v2, mejora de rsu proyecto de curso.
+RSUv2: Red social universitaria v2, mejora de RSUv1.
