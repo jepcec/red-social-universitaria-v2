@@ -1,8 +1,8 @@
 
-
+import GrudUser from './pages/grud/grudUser'
 function App() {
   return(
-    <h1 className='ring-black'>Hola mundo</h1>
+    <GrudUser/>
   );
 }
 
