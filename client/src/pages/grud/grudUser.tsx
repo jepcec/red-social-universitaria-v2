@@ -21,7 +21,7 @@ function grudUser(){
     console.log(users)
     return (
         <div>
-            <h1>Lista Usuarios</h1>
+            <h1>Obteniendo usuario</h1>
             <ul>
                 {users.map(user=>(
                     <li key={user._id}>
